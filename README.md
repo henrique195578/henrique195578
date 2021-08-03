@@ -1,5 +1,5 @@
 <h1>  Olá!! Sou Henrique. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
-<img align="right" width="35%" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
+<img align="right" width="35%" src="https://media.tenor.com/images/9ab00de0730a1e07dc28a65bf902440a/tenor.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="26"/> Sobre mim </h2>
 <li> 💻 Estou estudando para me tornar um desenvolvedor web front-end e back-end </li>
