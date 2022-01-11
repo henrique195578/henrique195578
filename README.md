@@ -4,7 +4,7 @@
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="26"/> Sobre mim </h2>
 <li> 💻 Estou estudando para me tornar um desenvolvedor web front-end e back-end </li>
-<li> 🧠Atualmente estou aprendendo 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍/𝖧𝖳𝖬𝖫/𝖢𝖲𝖲 </li>
+<li> 🧠Atualmente estou aprendendo 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍/𝖧𝖳𝖬𝖫/𝖢𝖲𝖲/JAVA </li>
 
 <br/>
 <h2>Linguagens & Ferramentas:</h2>
