@@ -1,6 +1,6 @@
 
 <h1>  Olá!! Sou Henrique <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
-<img align="right" width="35%" src="https://media.tenor.com/images/9ab00de0730a1e07dc28a65bf902440a/tenor.gif">
+<img align="right" width="35%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tqkht9a5qgzojxk2zh0toqgkku3lucq2k6nhdpjw&rid=giphy.gif&ct=g">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="26"/> Sobre mim </h2>
 <li> 💻 Estou estudando para me tornar um desenvolvedor web front-end e back-end </li>
@@ -19,6 +19,8 @@
 <br/>
 
 #
+<li>[![henrique195578](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique195578&hide=html&layout=compact&theme=default)](https://github.com/henrique195578/)
+
 <details open="">
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
