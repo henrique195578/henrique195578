@@ -1,5 +1,5 @@
 
-<h1>  Olá!! Sou Henrique <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1>  HEY!! I'm Henrique <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <img align="right" width="40%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tqkht9a5qgzojxk2zh0toqgkku3lucq2k6nhdpjw&rid=giphy.gif&ct=g">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="26"/> Sobre mim </h2>
