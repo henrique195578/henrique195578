@@ -2,12 +2,12 @@
 <h1>  HEY!! I'm Henrique <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <img align="right" width="40%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tqkht9a5qgzojxk2zh0toqgkku3lucq2k6nhdpjw&rid=giphy.gif&ct=g">
 
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="26"/> Sobre mim </h2>
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="26"/> About me </h2>
 <li> 💻 I'm studying to become a Full Stack developer </li>
 <li> 🧠I am currently studying about the JAVA/𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍/𝖧𝖳𝖬𝖫/𝖢𝖲𝖲 tools </li>
 
 <br/>
-<h2>Linguagens & Ferramentas:</h2>
+<h2>Languages & Tools:</h2>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="45" width="45" src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png"></code>
 <code><img height="35" width="35" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/VsCode.svg.png"></code>
@@ -34,7 +34,7 @@
 
 #
 <h2>
-  Contato para mais informações:
+  Contact for more information:
   <a 
      target="_blank">
     <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
